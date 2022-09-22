@@ -1,9 +1,9 @@
-import getText from './main'
+import getName from './main'
 
-it("expect to return some text",()=>{
-    expect(getText()).toBe("some text")
+it("expect to return Abayneh Asaye",()=>{
+    expect(getName()).toBe("Abayneh Asaye")
 })
 
-it("expect to return hello world",()=>{
-    expect(getText()).toBe("some text")
+it("expect to return my name ",()=>{
+    expect(getName()).not.toBe("asaye")
 })

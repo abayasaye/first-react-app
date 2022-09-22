@@ -1,4 +1,4 @@
-const getText = ()=>{
-return " some text"
+const getName = ()=>{
+return "Abayneh Asaye"
 }
-export default getText()
+export default getName
