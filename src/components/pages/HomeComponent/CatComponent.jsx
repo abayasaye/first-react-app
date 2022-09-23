@@ -1,12 +1,12 @@
-import "./HomeComponent.css";
+import "./CatComponent.css";
 import React from "react";
 
-function catComponent() {
+function CatComp() {
   return (
-    <div className="home-component">
+    <div className="cat-component">
       <h1>hello cats</h1>
     </div>
   );
 };
 
-export default catComponent;
+export default CatComp;
