@@ -8,9 +8,9 @@ return (
   <div>
     <MyHeader/>
     hello react
-    <HomePage/>
     <MyHeadline/>
     <MyPic/>
+    <HomePage/>
   </div>
 )
 }

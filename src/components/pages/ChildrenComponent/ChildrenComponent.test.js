@@ -18,5 +18,6 @@ describe("Test for ChildrenComponent",()=>{
     const classElement = screen.getByTestId("span-Id")
     expect(classElement).toHaveClass("span-Class")
    })
+   
 })
 
