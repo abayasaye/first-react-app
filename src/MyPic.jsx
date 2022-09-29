@@ -1,7 +1,7 @@
 function MyPic (){
     return (
         <div>
-        <img src="space.jpg" alt="" style={{ height:"100vh"}}/>
+        <img src="space.jpg" alt="" style={{ height:"50vh"}}/>
         </div>
     )
 }
